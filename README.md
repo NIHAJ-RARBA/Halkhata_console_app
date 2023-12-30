@@ -1,1 +1,3 @@
-<p style="text-align: center;">This is a simple console based application for keeping track of store expenses</p>
+<div style='text-align: right;'>
+  This is a simple console based application for keeping track of store expenses
+</div>
